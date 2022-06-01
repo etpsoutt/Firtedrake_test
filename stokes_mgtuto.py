@@ -224,6 +224,3 @@ p.rename("Pressure")
 
 File("stokes.pvd").write(u, p)
 
-# A runnable python version of this demo can be found `here
-# <geometric_multigrid.py>`__.
-   
